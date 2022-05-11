@@ -7,7 +7,7 @@
       <th id="type">类型</th>
       <th id="location">服务器位置</th>
       <th id="uptime">在线时间</th>
-      <th id="load">负载</th>
+      <th id="load_5">负载</th>
       <th id="network">网络(B/s) ↓|↑</th>
       <th id="traffic">流量(B) ↓|↑</th>
       <th id="cpu">CPU</th>

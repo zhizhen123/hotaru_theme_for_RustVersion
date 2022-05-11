@@ -14,7 +14,7 @@
       </div>
       <div class="card-content">
         <p>Network: {{ `${tableRowByteConvert(server.network_rx)} | ${tableRowByteConvert(server.network_tx)}` }}</p>
-        <p>负载状态: {{ typeof server.load !== 'undefined' ? server.load : 'Offline' }}</p>
+        <p>负载状态: {{ typeof server.load_5 !== 'undefined' ? server.load_5 : 'Offline' }}</p>
       </div>
     </div>
   </div>

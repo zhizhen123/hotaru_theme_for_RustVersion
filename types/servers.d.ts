@@ -12,7 +12,7 @@ declare global {
 
   interface StatusItem extends BoxItem {
     'uptime': string;
-    'load': number;
+    'load_5': number;
     'cpu': number;
     'network_rx': number;
     'network_tx': number;

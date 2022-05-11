@@ -131,7 +131,7 @@ div.bar {
 }
 
 @media only screen and (max-width: 660px) {
-  #load, tr td:nth-child(6) {
+  #load_5, tr td:nth-child(6) {
     display: none;
   }
 }
