@@ -24,7 +24,6 @@ declare global {
     'swap_used': number;
     'hdd_total': number;
     'hdd_used': number;
-    'custom': string;
   }
 
   interface Window {

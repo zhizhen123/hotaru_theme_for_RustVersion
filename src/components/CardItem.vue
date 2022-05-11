@@ -3,7 +3,7 @@
     <div class="ui fluid card">
       <div class="card-header">
         <svg viewBox="0 0 100 100" class="flag-icon">
-          <use :xlink:href="`#${server.region}`"></use>
+          <use :href="`#${server.location}`"></use>
         </svg>
         <span> {{ server.name }} </span>
         <p>{{ server.type }}</p>
