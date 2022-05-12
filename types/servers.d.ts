@@ -31,7 +31,7 @@ declare global {
       subHeader: string;
       interval: number;
       footer: string;
-    
+    }
   }
 }
 export {};
