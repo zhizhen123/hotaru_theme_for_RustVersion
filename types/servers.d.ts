@@ -1,13 +1,12 @@
 /* eslint-disable */
 declare global {
   interface BoxItem {
-    'name': string;
+    'alias': string;
     'host': string;
     'type': string;
     'online4': boolean;
     'online6': boolean;
     'location': string;
-    'region': string;
   }
 
   interface StatusItem extends BoxItem {
@@ -32,7 +31,7 @@ declare global {
       subHeader: string;
       interval: number;
       footer: string;
-    }
+    
   }
 }
 export {};

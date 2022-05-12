@@ -5,7 +5,7 @@
         <svg viewBox="0 0 100 100" class="flag-icon">
           <use :href="`#${server.location}`"></use>
         </svg>
-        <span> {{ server.name }} </span>
+        <span> {{ server.alias }} </span>
         <p>{{ server.type }}</p>
       </div>
       <div class="ui tiny progress success">

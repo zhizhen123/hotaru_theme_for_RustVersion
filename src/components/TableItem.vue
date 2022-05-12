@@ -6,7 +6,7 @@
         </div>
       </div>
     </td>
-    <td>{{ server.name }}</td>
+    <td>{{ server.alias }}</td>
     <td>{{ server.type }}</td>
     <td>{{ server.location }}</td>
     <td>{{ server.uptime || '–' }}</td>

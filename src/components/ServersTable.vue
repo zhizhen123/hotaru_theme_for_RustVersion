@@ -3,7 +3,7 @@
     <thead>
     <tr>
       <th id="status4">运行状态</th>
-      <th id="name">节点名</th>
+      <th id="alias">节点名</th>
       <th id="type">类型</th>
       <th id="location">服务器位置</th>
       <th id="uptime">在线时间</th>
