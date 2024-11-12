@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/json/stats.json",
+            "dest": "http://tz.xxx.com/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "http://tz.xxx.com/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "http://tz.xxx.com/map"
+        },
+        {
+            "src": "/i",
+            "dest": "http://tz.xxx.com/i"
+        },
+        {
+            "src": "/report",
+            "dest": "http://tz.xxx.com/report"
+        }
+    ]
+}
